@@ -1,3 +1,5 @@
+
+
 This is a demonstration  how to combine multiple classical graphics approaches with AI generated art to create a 3D web-based experience. 
 The approaches used include text to image, image to video, text to 3D, and video to 3D using a technique called gaussian splatting.
 
@@ -18,3 +20,5 @@ Here are some links to the tools used for creating this:
 
 
 [chapel model](https://sketchfab.com/3d-models/updated-chapel-model-7-12-19-275d95e2b4304d26b0010f915969ae6c) by adamleescott 
+
+Demo: https://chapelofwhispers.vercel.app/
